@@ -1,3 +1,2 @@
 # PythonQt
-
-Python软件开发
+Python的Qt代码。
